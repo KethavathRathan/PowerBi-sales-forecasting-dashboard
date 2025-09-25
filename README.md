@@ -20,3 +20,4 @@ To contribute to the success of a business by utilizing data analysis techniques
 - Data Modeling: Establish relationships between tables to enable comprehensive analysis.
 - Dynamic Visualizations: Incorporate slicers, filters, and drill-throughs for detailed insights.
 - Export Options: Export reports to PDF for sharing with stakeholders.
+- Dashboard Interaction <a href="https://github.com/KethavathRathan/PowerBi-sales-forecasting-dashboard/blob/main/reports/POWER%20BI%20Supersales%20Dashboard.pdf">view Dashboard</a>
