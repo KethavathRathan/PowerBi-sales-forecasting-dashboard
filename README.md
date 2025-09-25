@@ -12,3 +12,11 @@ To contribute to the success of a business by utilizing data analysis techniques
 - DAX (Data Analysis Expressions): For creating custom calculations and measures.
 - Power BI Forecasting: For predicting future sales trends based on historical data.
 - Excel: For initial data analysis and preparation.
+
+## Features & Highlights
+
+- Interactive Dashboards: Visualize key sales metrics such as revenue, profit, and sales by region/product.
+- Forecasting: Utilize Power BI's built-in forecasting capabilities to predict future sales trends.
+- Data Modeling: Establish relationships between tables to enable comprehensive analysis.
+- Dynamic Visualizations: Incorporate slicers, filters, and drill-throughs for detailed insights.
+- Export Options: Export reports to PDF for sharing with stakeholders.
